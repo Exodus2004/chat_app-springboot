@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class RealtimechatapplicationApplication {
+	//hello world
 
 	public static void main(String[] args) {
 		SpringApplication.run(RealtimechatapplicationApplication.class, args);
