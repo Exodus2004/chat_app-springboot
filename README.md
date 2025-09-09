@@ -70,7 +70,7 @@ To send a message, you need to send a `ChatMessage` object to the `/app/chat.sen
 ```json
 {
   "content": "Hello, world!",
-  "sender": "JohnDoe",
+  "sender": "sagar",
   "type": "CHAT"
 }
 ```
@@ -81,7 +81,7 @@ To register a user, send a `ChatMessage` object to the `/app/chat.register` dest
 
 ```json
 {
-  "sender": "JohnDoe",
+  "sender": "sagar",
   "type": "JOIN"
 }
 ```
